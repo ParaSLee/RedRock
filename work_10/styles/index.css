@@ -1,0 +1,420 @@
+body {
+  margin: 0;
+  font-family: "Microsoft YaHei";
+}
+
+@font-face {
+  font-family: iconfont;
+  src: url(../icon/iconfont.woff); 
+}
+
+.iconfont{
+  float: left;
+  margin-top: 33px;
+  margin-left: 365px;
+  font-family:"iconfont" !important;
+  font-size:30px;
+  font-style:normal;
+  color: white;
+ -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+  }
+
+
+#background{
+  overflow: hidden;
+  width: 1280px;
+  height: 533px;
+  color: white;
+  background-image: url(../images/head/image/background.png);
+}
+
+#logo{
+  float: left;
+  margin-top: 76.9px;
+  margin-left: 129px;
+}
+
+#meun{
+  float: right;
+}
+
+ul{
+  margin: 0px;
+  list-style: none;
+}
+
+#CONTACT{
+  float: left;
+  margin-top: 76.9px;
+  margin-right: 145px;
+}
+
+.meun{
+  float: left;
+  margin-top: 76.9px;
+  margin-right: 35px;
+}
+
+#START{
+  font-style: 
+}
+
+#AOUBTME{
+  color: #1abc9c;
+}
+
+#head_title{
+  margin-top: 246px;
+  margin-left: 354px;
+}
+
+#maintitle{
+  font-size: 310%
+}
+
+#hr{
+  margin-left: -40px;
+  width: 656px;
+  height: 2px;
+  background-image: url(../images/head/title/hr.png);
+}
+
+#subtitle{
+  margin-left: 112px;
+  font-size: 150%;
+}
+
+#body{
+  width: 1280px;
+  height: 2609px;
+  background-image: url(../images/body/bone.png);
+}
+
+#button1{
+  float: left;
+  width: 238px;
+  height: 66px;
+  margin-top: -32px;
+  margin-left: 524px;
+  background-image: url(../images/head/button/Container.png);
+}
+
+#GOAHEAD{
+  float: left;
+  margin-top: 19px;
+  margin-left: 64px;
+  font-size: 120%;
+  color: white;
+}
+
+#neck{
+  float: left;
+  width: 1280px;
+  height: 713px;
+  margin-top: 133px;
+  overflow: hidden;
+}
+
+#neck_title{
+  height: 28px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 469px;
+  font-size: 215%;
+  color: #1abc9c;
+}
+
+#neck_txt{
+  width: 1280px;
+  margin-top: 58px;
+}
+
+.h4_txt{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 14px;
+  font-size: 85%;
+  color: #a5b3b3;
+}
+#neck_h4{
+  margin-bottom: 0px;
+
+}
+#neck_bottom{
+  height: 331px;
+  
+}
+
+#neck_icon{
+  width: 1280px;
+  height: 102px;
+  margin-top: 81px;
+}
+
+#neck_icon1{
+  float: left;
+  width: 68px;
+  height: 69px;
+  margin-left: 230px;
+  background-image: url(../images/body/neck/icon1.png);
+}
+
+#neck_icon2{
+  float: left;
+  width: 70px;
+  height: 69px;
+  margin-left: 310px;
+  background-image: url(../images/body/neck/icon2.png);
+}
+
+#neck_icon3{
+  float: left;
+  width: 56px;
+  height: 69px;
+  margin-left: 320px;
+  background-image: url(../images/body/neck/icon3.png);
+}
+
+
+.neck_package{
+  float: left;
+  height: 230px;
+  width: 268px;
+  margin-right: 113px;
+}
+
+.neck_packagep{
+  float: left;
+  height: 230px;
+  width: 268px;
+  margin-right: 113px;
+  margin-left: 128px;
+}
+
+.neck_title2{
+  height: 21px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #1abc9c;
+  text-align: center;
+}
+
+.neck_txt2{
+  text-align: center;
+  height: 170px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-size: 80%;
+  color: #9dacad;
+}
+
+.neck_txt2p{
+  float: left;
+  margin-bottom: 14px;
+  font-size: 99%;
+}
+
+.neck_txt2p2{
+  font-size: 97%;
+}
+
+.neck_txt2kg{
+  margin-bottom: 14px;
+}
+
+.neck_span{
+  float: left;
+  margin-bottom: 13.5px;
+}
+
+#upperbody{
+  float: left;
+  width: 1280px;
+  height: 1001px;
+}
+
+#underline{
+  width: 1024px;
+  height: 1px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 128px;
+  /*background-color:#fbfcfc; */
+  color: #e6eaea;
+}
+
+#ub_photo1{
+  float: left;
+  width: 425px;
+  height: 320px;
+  margin-top: 81px;
+  margin-left: 130px;
+  background-image: url(../images/body/upperbody/image1.png);
+}
+
+#ub_photo2{
+  float: left;
+  width: 425px;
+  height: 320px;
+  margin-top: 81px;
+  margin-left: 172px;
+  background-image: url(../images/body/upperbody/image2.png);
+}
+
+#ub_photo3{
+  float: left;
+  width: 425px;
+  height: 320px;
+  margin-top: 60px;
+  margin-left: 130px;
+  background-image: url(../images/body/upperbody/image3.png);
+}
+
+#ub_photo4{
+  float: left;
+  width: 425px;
+  height: 320px;
+  margin-top: 60px;
+  margin-left: 172px;
+  background-image: url(../images/body/upperbody/image4.png);
+}
+
+#ubp_h3{
+  margin-top: 249px;
+  margin-bottom: 0px;
+  margin-left: 24px;
+  color: #e0f6f2;
+}
+
+#ubp_h5{
+  margin-top: 12px;
+  margin-left: 22px;
+  color: #297465;
+}
+
+#ub_button{
+  float: left;
+  width: 234px;
+  height: 62px;
+  margin-top: 81px;
+  margin-left: 525px;
+  background-image: url(../images/body/upperbody/Container1.png);
+}
+
+#ubb_font{
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 34px;
+  color: #e7f8f5;
+}
+
+#ubb_arr{
+  float: right;
+  width: 27px;
+  height: 25px;
+  margin-top: 20px;
+  margin-right: 34px;
+  background-image: url(../images/body/upperbody/Arrow.png);
+}
+
+#lowerbody{
+  float: left;
+  width: 1280px;
+  height: 603px;
+}
+
+#lb_title{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 0px;
+  font-size: 190%;
+  color: #1abc9c;
+}
+
+#name{
+  width: 374px;
+  height: 75px;
+  margin-top: 80px;
+  margin-left: 233px;
+  padding-left:33px;
+  font-size: 150%;
+  border-style: none;
+  background-color: #e4e8e8;
+}
+
+#email{
+  width: 372px;
+  height: 75px;
+  margin-top: 80px;
+  margin-left: 32px;
+  padding-left:35px;
+  font-size: 150%;
+  border-style: none;
+  background-color: #e4e8e8;
+}
+
+#help{
+  width: 818px;
+  height: 266px;
+  margin-top: 30px;
+  margin-left: 233px;
+  padding-top: 31px;
+  padding-left:33px;
+  font-size: 300%;
+  border-style: none;
+  background-color: #e4e8e8;
+}
+
+#foot{
+  margin-top: 32px;
+  width: 1280px;
+  height: 256px;
+  background-image: url(../images/foot/Container1.png);
+}
+
+#twitter{
+  float: left;
+  width: 107px;
+  height: 107px;
+  margin-top: -32px;
+  margin-left: 224px;
+  background-image: url(../images/foot/twitter.png);
+}
+
+#dribbble{
+  float: left;
+  width: 107px;
+  height: 107px;
+  margin-top: -32px;
+  margin-left: 257px;
+  background-image: url(../images/foot/dribbble.png);
+}
+
+#facebook{
+  float: left;
+  width: 107px;
+  height: 107px;
+  margin-top: -32px;
+  margin-left: 251px;
+  background-image: url(../images/foot/facebook.png);
+}
+
+#foot_font1{
+  float: left;
+  margin-top: 81px;
+  margin-left: 128px;
+  color: #ffffff;
+}
+
+#foot_font2{
+  float: right;
+  margin-top: 82px;
+  margin-right: 126px;
+  color: #ffffff;
+}
+
+
+

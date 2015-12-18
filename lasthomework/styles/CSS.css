@@ -1,0 +1,175 @@
+body {
+	margin: 0px;
+}
+body{
+  width:1980px;
+  height: 2180px; 
+  font-family: "microsoft yahei";
+
+}
+
+#head{
+	width: 1980px;
+	height: 521px;
+
+}
+
+#head_background{
+	width: 1980px;
+	height: 381px;
+	background-image: url(../image/background/Rectangle1.png);
+}
+
+#head_p{
+	float: left;
+	width: 960px;
+	height: 520px;
+	margin-top: 25px;
+	margin-right: 250px;
+	margin-left: 510px;
+}
+
+#head_top{
+	width: 960px;
+	height: 75px;
+	margin: 0px;
+}
+
+#head_title{
+	width: 155px;
+	margin-right: 250px;
+	font-size: 150%
+}
+
+#head_button1{
+	float: left;
+	width: 78px;
+	height: 43px;
+	margin-top: -33px;
+	margin-left: 405px;
+	text-align: center;
+	line-height: 40px;
+	color: #FFF;
+	background-image: url(../image/button/RoundedRectangle3.png);
+}
+
+#head_button2{
+	float: left;
+	width: 84px;
+	height: 38px;
+	margin-top: -28.5px;
+	margin-left: -5px;
+	text-align: center;
+	line-height: 30px;
+	color: #FFF;
+	background-image: url(../image/button/RoundedRectangle3copy.png);
+}
+
+#head_fus{
+	float: left;
+	margin-left: 160px;
+	margin-top: -25px;
+}
+
+#twitter{
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin-top: -32px;
+	margin-left: 240px;
+	background-image: url(../image/button/Layer10.png);
+}
+
+#facebook{
+	float: left;
+	width: 37px;
+	height: 36px;
+	margin-top: -28px;
+	margin-left: -2px;
+	background-image: url(../image/button/Layer11.png);
+}
+
+#samsung{
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin-top: -32px;
+	margin-left: -3px;
+	background-image: url(../image/button/Layer12.png);
+}
+
+#wifi{
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin-top: -32px;
+	margin-left: -4px;
+	background-image: url(../image/button/Layer13.png);
+}
+
+#head_middle{
+	width: 960px;
+	height: 47px;
+	background-image: url(../image/background/RoundedRectangle1copy.png);
+}
+
+#head_body{
+	width: 960px;
+	height: 400px;
+	background-image: url(../image/background/photo1.png);
+}
+
+#head_shape{
+	float: left;
+	width: 737px;
+	height: 183px;
+	margin-top: 283px;
+	margin-left: -50px;
+	background-image: url(../image/background/Shape1.png);
+}
+
+#hs_title{
+	float: left;
+	margin-top: 39px;
+	margin-left: 83px;
+	font-size: 130%;
+}
+
+#hs_font1{
+	float: left;
+	margin-top: 7px;
+	margin-left: 83px;
+	font-size: 50%;
+}
+#hs_font2{
+	float: left;
+	margin-top: 0px;
+	margin-left: 83px;
+	font-size: 50%;
+}
+
+#hm_button{
+	float: left;
+	width: 141px;
+	height: 39px;
+	margin-top: 5px;
+	margin-left: 8px;
+	margin-right: 2px;
+	text-align: center;
+	line-height: 37px;
+	color: #fff;
+	background-image: url(../image/button/RoundedRectangle2.png);
+}
+
+.hm_button2{
+	float: left;
+	width: 159px;
+	height: 39px;
+	margin-top: 5px;
+	margin-left: 0px;
+	margin-right: 1px;
+	text-align: center;
+	line-height: 37px;
+	color: #fff;
+	background-image: url(../image/button/RoundedRectangle2copy2.png);
+}
